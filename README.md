@@ -1,17 +1,13 @@
-## My Project
+## AWS DeepRacer Compatible Reward Function
 
-TODO: Fill this README out!
+The AWS DeepRacer Compatible Reward Function provides a backward compatible interface to re-use DeepRacer reward function for "RL Lab - DeepRacer".
+ 
+## Installation
 
-Be sure to:
+To install AWS DeepRacer Compatible Reward Function package, use `pip install deepracer-compat-reward-function`.
 
-* Change the title in this README
-* Edit your repository description on GitHub
-
-## Security
-
-See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
+Python 3.6, 3.7, 3.8, and 3.9 are supported on Linux, Windows, and macOS.
 
 ## License
 
 This project is licensed under the Apache-2.0 License.
-
