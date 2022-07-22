@@ -1,3 +1,5 @@
+## We have made a difficult decision of ceasing active development on this repo as of Jul 2022.
+
 ## AWS DeepRacer Compatible Reward Function
 
 The AWS DeepRacer Compatible Reward Function provides a backward compatible interface to re-use DeepRacer reward function for "RL Lab - DeepRacer".
